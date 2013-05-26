@@ -1,3 +1,2 @@
 <?php
-// temp
-// funny! :)
+//silence is golden
